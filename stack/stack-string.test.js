@@ -1,5 +1,5 @@
 import test from 'ava'
-import Stack from './stack'
+import Stack from './stack-string'
 
 test('stack', t => {
   const stack = new Stack()
